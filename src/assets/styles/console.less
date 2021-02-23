@@ -1,0 +1,130 @@
+.ub-console {
+  background: url(//image.youbankeji.com/static/console/bgmini.png) no-repeat ;
+  background-color: #E5F6FE;
+  background-size:100%;
+  margin: 0px;
+  height: 100vh;
+  overflow: hidden;
+
+  a {
+    color: #0078de;
+  }
+  button{
+    width:65%;
+    height:55px;
+    border-radius:4px;
+    font-size: 16px;
+  }
+  li{
+    margin-bottom: 2vh;
+    width:100%;
+  }
+
+  .dialog {
+    box-shadow:12px 12px 39px 0px rgba(58,96,130,0.43);
+    background: #fff;
+    width: 27.7%;
+    min-width: 530px;
+    padding: 60px 0px;
+    border-radius:8px;
+    position: absolute;
+    top: 9vh;
+    right: 140px;
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%);
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+    z-index: 2;
+    &::before{
+      // content:'';
+      width: 66px;
+      height: 58px;
+      background: url(../images/icon-experience.png) no-repeat;
+      position: absolute;
+      right: 9px;
+      top: -8px;
+    }
+  }
+
+  .item {
+    position: relative;
+    div {
+      width:65%;
+      height:55px;
+      border-radius:4px;
+      font-size: 16px;
+    }
+    p{
+      width: 65%;
+      text-align: left;
+      position: relative;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      transform: translateX(-50%);
+      color: #333;
+      margin-bottom: 10px;
+      margin-top: 5px;
+      font-size: 16px;
+    }
+  }
+  .el-button--success.is-plain{
+    color: #fff;
+    background: #00A3FD;
+    border:1px solid #00A3FD;
+  }
+  .el-button--success.is-plain:hover{
+    color: #fff;
+    background: #038CDB;
+    border:1px solid #038CDB;
+  }
+  .el-button--success.is-plain:active{
+    color: #fff !important;
+    background: #0274AF !important;
+    border:1px solid #0274AF !important;
+  }
+  .el-input__inner {
+    -webkit-appearance: none;
+    border: transparent;
+    background-image: none;
+    border-radius: 0px; 
+    border-bottom: 1px solid #DCDFE6;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #606266;
+    display: inline-block;
+    font-size: inherit;
+    height: 52px;
+    line-height: 52px;
+    outline: 0;
+    padding: 0 15px;
+    -webkit-transition: border-color .2s cubic-bezier(.645,.045,.355,1);
+    transition: border-color .2s cubic-bezier(.645,.045,.355,1);
+    width: 100%;
+  }
+  .copyright {
+    width: 100%;
+    padding: 40px 0;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    color: #ABB5BD;
+    font-size: 14px;
+  }
+  .welcome {
+    img {
+      width: 74px;
+      vertical-align: middle;
+    }
+    span {
+      font-size:36px;
+      font-weight:400;
+      color: #000;
+      vertical-align: middle;
+    }
+  }
+}
+
+input::-ms-clear{display: none;}
+input::-ms-reveal{display: none;}

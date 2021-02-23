@@ -1,0 +1,1573 @@
+@media (max-width: 1199px) {
+  .btn-font-size {
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .dashDataItem {
+    width: 33% !important;
+    margin-bottom: 10px;
+  }
+
+  #aside,
+  #asideTit,
+  .topbar-wrap {
+    display: none;
+  }
+
+  .btniconfont {
+    font-size: 12px !important;
+  }
+
+  .el-button--mini {
+    width: auto;
+    font-size: .4rem;
+    padding: 0;
+  }
+
+  .el-table .cell {
+    font-size: .72rem;
+  }
+
+  .box-card {
+    font-size: 12px;
+  }
+
+  .box-card .item {
+    margin-bottom: 18px;
+  }
+
+  .box-card .item b {
+    width: 80px;
+    font-size: 12px;
+  }
+
+  .box-card .item span {
+    font-size: 12px;
+  }
+
+  .cancelTit s {
+    display: inline-block;
+    width: 18px;
+  }
+
+  .cancelTit span {
+    font-size: 16px;
+  }
+
+  .cardId {
+    width: 140px;
+  }
+
+  .quebao {
+    width: 120px;
+  }
+
+  .cardCenter>span {
+    font-size: 12px;
+  }
+
+  .el-checkbox__label {
+    width: 72px;
+  }
+
+  .el-checkbox__label {
+    font-size: 12px;
+  }
+
+  #bingli {
+    width: 680px;
+  }
+
+  .tijiao {
+    padding-top: 16px;
+  }
+
+  .cancelSuccessPic {
+    width: 40px;
+  }
+
+  #creatLiveIn .cardId {
+    width: 80px;
+  }
+
+  #creatLiveIn .cardCenter button {
+    width: 120px;
+    font-size: 12px;
+  }
+
+  .marginBtn {
+    margin-left: 6px;
+  }
+
+  #idCard img.cardId {
+    /*width: 10rem;*/
+  }
+
+  .tb-title .el-col {
+    font-size: 12px;
+  }
+
+  #checkjj .el-col-4 span.el-checkbox__label {
+    width: 80px !important;
+  }
+
+  #oldManDetailLive .el-checkbox__label {
+    width: 70px !important;
+  }
+
+  .user-avatar,
+  .headImg {
+    cursor: pointer;
+    width: 22px;
+    height: 22px;
+    border-radius: 10px;
+  }
+
+  .scoreTit>div {
+    font-size: 14px;
+    height: 50px;
+    line-height: 50px;
+  }
+
+  .thTit {
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+  }
+
+  .basicTable td {
+    height: 30px;
+    line-height: 30px;
+  }
+
+  .scorePg .el-checkbox__label {
+    width: 20px !important;
+  }
+
+  .containerTable>.clause {
+    height: 1194px;
+  }
+
+  .el-button {
+    font-size: 12px !important;
+  }
+
+  #departDialog .el-select-dropdown {
+    min-width: 0 !important;
+    width: 170px;
+  }
+
+  #departDialog .el-input__inner,
+  #departDialog .el-input,
+  #departDialog .el-form-item__error,
+  #departDialog .el-select-dropdown,
+  .userList .el-select-dropdown__empty {
+    width: 170px;
+  }
+
+  .userList .el-form-item__content {
+    width: auto !important;
+  }
+
+  #addressHj {
+    position: relative;
+    top: 0px;
+  }
+
+  .closeBtn {
+    left: 140px;
+    top: 0px;
+  }
+
+  .el-input__inner {
+    font-size: 12px;
+  }
+
+  .el-form-item__label {
+    font-size: 12px;
+  }
+
+  #userListss .el-input,
+  #userListss .el-textarea {
+    /*width:160px !important;*/
+  }
+
+  .backTitle .title {
+    font-size: 12px;
+  }
+
+  .flashData1,
+  .flashData3 {
+    padding: 0 10px;
+    height: 40px !important;
+    line-height: 40px !important;
+  }
+
+  .newScore table>tr>td:first-child {
+    font-size: 12px;
+  }
+
+  .menuItems p {
+    font-size: 12px !important;
+  }
+
+  .spanImgText {
+    font-size: 12px !important;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1365px) {
+  .btn-font-size {
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .spanImgText {
+    font-size: 12px !important;
+  }
+
+  .dashDataItem {
+    width: 33% !important;
+    margin-bottom: 10px;
+  }
+
+  .shaixuan {
+    position: relative;
+    top: 26%;
+    text-align: right;
+    cursor: pointer;
+    font-size: 12px;
+  }
+
+  .backTitle .title {
+    font-size: 12px;
+  }
+
+  #departDialog .el-input__inner,
+  #departDialog .el-input {
+    cursor: pointer;
+    width: 235px;
+  }
+
+  /*#grounpBtns .el-col-2{
+		width:12%
+	}
+	#grounpBtns .el-col-3 {
+	    width: 16.5%;
+	}
+	#grounpBtns .el-col-10{
+		width:16%
+	}*/
+  /*#grounpBtns .el-col-5{
+		width: 49.83333%;
+		height: 54px;
+	}
+	#grounpBtns .el-col-6{
+		width:49%;
+	}
+	#grounpBtns .el-col-18{
+		width:64%;
+	}*/
+  .el-radio__label {
+    font-size: 12px !important;
+  }
+
+  .btn-font-size {
+    font-size: 12px;
+  }
+
+  #imgPreview4,
+  #imgPreview5 {
+    height: 135px !important;
+  }
+
+  .ieTixin {
+    position: relative;
+    top: 340px;
+  }
+
+  #idCardConnect {
+    top: 300px !important;
+    height: 30px;
+    line-height: 30px;
+  }
+
+  .flashData1,
+  .flashData3 {
+    padding: 0 10px;
+    height: 42px !important;
+    line-height: 42px !important;
+  }
+
+  body {
+    font-size: 24px;
+  }
+
+  .mediaLeft {
+    position: absolute;
+    left: 0;
+    top: 0rem;
+  }
+
+  .el-form-item span {
+    padding: 0 .3rem;
+  }
+
+  .userList .el-checkbox__input {
+    width: 13px;
+  }
+
+  .el-table .cell {
+    font-size: .72rem;
+  }
+
+  .topbar-logo img,
+  .topbar-logos img {
+    height: 30px;
+  }
+
+  #imgPreview {
+    width: 100px !important;
+    height: 180px !important;
+  }
+
+  #img3 {
+    bottom: 11.25rem;
+  }
+
+  .topbar-logos {
+    width: 10.2rem;
+  }
+
+  .el-menu {
+    /*width:14rem;*/
+  }
+
+  .topbar-wrap,
+  #aside>div.clearfix,
+  .openMenus {
+    height: 4rem;
+  }
+
+  .content-container {
+    margin-top: 4rem;
+  }
+
+  .el-breadcrumb {
+    font-size: 1rem;
+  }
+
+  .topbar-wrap {
+    padding: 0.6rem 0;
+  }
+
+  .topbar-logos,
+  .topbar-logo {
+    top: 12px;
+    left: .2rem;
+  }
+
+  .menu-toggle>img {
+    width: 1.5rem;
+    height: 1.5rem;
+    top: 0px;
+  }
+
+  .el-submenu .el-submenu__title {
+    font-size: .8rem;
+  }
+
+  .el-menu .el-menu-item {
+    font-size: .8rem;
+  }
+
+  #liveCrList .mBtn {
+    width: 78px;
+    font-size: 12px;
+    padding: 12px 5px;
+  }
+
+  .el-button--mini {
+    width: auto;
+    font-size: .6rem;
+    padding: 0;
+  }
+
+  .el-table .cell {
+    font-size: .72rem;
+  }
+
+  .box-card {
+    font-size: 14px;
+  }
+
+  .box-card .item {
+    margin-bottom: 22px;
+  }
+
+  .box-card .item b {
+    width: 100px;
+    font-size: 14px;
+  }
+
+  .box-card .item span {
+    font-size: 13px;
+  }
+
+  .cancelTit s {
+    display: inline-block;
+    width: 18px;
+  }
+
+  .cancelTit span {
+    font-size: 16px;
+  }
+
+  .cardId {
+    width: 160px;
+  }
+
+  .quebao {
+    width: 145px;
+  }
+
+  .cardCenter>span {
+    font-size: 12px;
+  }
+
+  .eltextare textarea {
+    /*width: 560px;*/
+  }
+
+  .el-checkbox__label {
+    width: 72px;
+  }
+
+  .el-checkbox__label {
+    font-size: 12px;
+  }
+
+  #bingli {
+    width: 680px;
+  }
+
+  .tijiao {
+    padding-top: 16px;
+  }
+
+  .cancelSuccessPic {
+    width: 55px;
+  }
+
+  #creatLiveIn .cardId {
+    width: 120px;
+  }
+
+  #creatLiveIn .cardCenter button {
+    width: 125px;
+    font-size: 12px;
+  }
+
+  .marginBtn {
+    margin-left: 4px;
+  }
+
+  .eltextarep {
+    width: 340px;
+  }
+
+  #idCard img.cardId {
+    /*width: 12rem;*/
+  }
+
+  .tb-title .el-col {
+    font-size: 12px;
+  }
+
+  #checkjj .el-col-4 span.el-checkbox__label {
+    width: 80px !important;
+  }
+
+  #oldManDetailLive .el-checkbox__label {
+    width: 70px !important;
+  }
+
+  .user-avatar,
+  .headImg {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+  }
+
+  .scoreTit>div {
+    font-size: 14px;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  .thTit {
+    height: 40px;
+    line-height: 40px;
+    font-size: 12px;
+  }
+
+  .basicTable td {
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .scorePg .el-checkbox {
+    margin-right: 20px;
+  }
+
+  .scorePg .el-checkbox__label {
+    width: 20px !important;
+  }
+
+  .scorePg .basicTable>tr>td:nth-child(2) {
+    width: 14%;
+  }
+
+  .scorePg .basicTable>tr>td:nth-child(3) {
+    width: 80%;
+  }
+
+  .containerTable>.clause {
+    /*height: 1374px;*/
+    height: 1284px;
+  }
+
+  .clause p {
+    margin: 17px 0 !important;
+  }
+
+  .newScore table>tr>td {
+    font-size: 12px;
+  }
+
+  .el-button {
+    font-size: 12px !important;
+  }
+
+  #departDialog .el-input__inner,
+  #departDialog .el-input {
+    width: 170px !important;
+  }
+
+  #departDialog .el-input__inner,
+  #departDialog .el-input,
+  #departDialog .el-form-item__error,
+  #departDialog .el-select-dropdown,
+  .userList .el-select-dropdown__empty {
+    width: 205px !important;
+  }
+
+  .userList .el-form-item__content {
+    width: auto !important;
+  }
+
+  #imgSpan,
+  #idCardSpan {
+    height: 30px;
+    top: 270px !important;
+    line-height: 30px;
+  }
+
+  #idCardSpan {
+    top: 330px !important;
+  }
+
+  /*.filepath {
+		height: 30px;
+		top: 400px !important;
+	}*/
+  #imgPreview {
+    width: 120px !important;
+    height: 180px !important;
+  }
+
+  #addressHj {
+    position: relative;
+    top: 0px;
+  }
+
+  .el-button {
+    font-size: 12px;
+  }
+
+  .resultStyle {
+    left: -25%;
+  }
+
+  #departDialog .el-select-dropdown {
+    min-width: 0 !important;
+    width: 180px;
+  }
+
+  #quitDiag .el-input__inner {
+    width: 62%;
+  }
+
+  .closeBtn {
+    left: 150px;
+    top: 0px;
+  }
+
+  #departDialog .el-select-dropdown {
+    min-width: 0 !important;
+    width: 210px;
+  }
+
+  .closeBtn {
+    left: 210px;
+    top: 0px;
+  }
+
+  .el-input__inner {
+    font-size: 12px;
+  }
+
+  .el-form-item__label {
+    font-size: 12px;
+  }
+
+  #userListss .el-input,
+  #userListss .el-textarea {
+    /*width:180px !important;*/
+  }
+
+  #imgSpan4,
+  #imgSpan5 {
+    top: 168px !important;
+  }
+
+  #dashed .dashContainer .oldNum {
+    margin-top: 3px;
+    font-size: 12px;
+  }
+
+  .dashContainer .allNums .nums {
+    font-size: 12px;
+  }
+
+  #dashed .dashContainer .allNums {
+    width: 22% !important;
+  }
+
+  .barBedText {
+    font-size: 12px;
+  }
+
+  .newScore table>tr>td:first-child {
+    font-size: 12px;
+  }
+
+  .menuItems p {
+    font-size: 12px !important;
+  }
+}
+
+@media screen and (min-width: 1366px) and (max-width: 1680px) {
+  .btn-font-size {
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .btn-font-size {
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .spanImgText {
+    font-size: 12px !important;
+  }
+
+  .btniconfont {
+    /*font-size: 12px !important;*/
+    margin-right: 1px;
+  }
+
+  .backTitle .title {
+    font-size: 14px;
+  }
+
+  #departDialog .el-input__inner,
+  #departDialog .el-input {
+    cursor: pointer;
+    width: 242px;
+  }
+
+  .newScore table>tr>td:first-child {
+    font-size: 14px;
+  }
+
+  .btn-font-size {
+    font-size: 12px;
+  }
+
+  .barBedText {
+    font-size: 12px;
+  }
+
+  #imgPreview4,
+  #imgPreview5 {
+    height: 140px !important;
+  }
+
+  .resultStyle {
+    left: -28%;
+  }
+
+  .ieTixin {
+    position: relative;
+    top: 345px;
+  }
+
+  #idCardConnect {
+    top: 320px !important;
+  }
+
+  body {
+    font-size: 24px;
+  }
+
+  .flashData1,
+  .flashData3 {
+    padding: 0 10px;
+    height: 46px !important;
+    line-height: 46px !important;
+  }
+
+  .mediaLeft {
+    position: absolute;
+    /* left:58rem; */
+    left: 0;
+    top: 0rem;
+  }
+
+  /*.filepath {
+		height: 30px;
+		top: 400px !important;
+	}*/
+  .el-form-item span {
+    padding: 0 .3rem;
+  }
+
+  .el-table .cell {
+    font-size: .9rem;
+  }
+
+  .topbar-logo img,
+  .topbar-logos img {
+    height: 30px;
+  }
+
+  .userList .el-checkbox__input {
+    width: 8px !important;
+  }
+
+  .userList .el-checkbox__label {
+    width: 25px !important;
+  }
+
+  .userList .el-form-item__content {
+    width: auto;
+  }
+
+  #imgPreview {
+    width: 150px !important;
+    height: 197px !important;
+  }
+
+  #imgSpan,
+  #imgSpan4,
+  #imgSpan5,
+  #idCardSpan {
+    top: 270px !important;
+  }
+
+  #idCardSpan {
+    top: 330px !important;
+  }
+
+  #img3 {
+    bottom: 11.25rem;
+  }
+
+  .topbar-logos {
+    width: 10.2rem;
+  }
+
+  .el-menu {
+    /*width:14rem;*/
+  }
+
+  .topbar-wrap,
+  #aside>div.clearfix,
+  .openMenus {
+    height: 4rem;
+  }
+
+  .content-container {
+    margin-top: 4rem;
+  }
+
+  .el-breadcrumb {
+    font-size: 1rem;
+  }
+
+  .topbar-wrap {
+    padding: 0.6rem 0;
+  }
+
+  .topbar-logos,
+  .topbar-logo {
+    top: 12px;
+    left: .3rem;
+  }
+
+  .menu-toggle>img {
+    width: 1.5rem;
+    height: 1.5rem;
+    top: 0px;
+  }
+
+  .el-submenu .el-submenu__title {
+    font-size: 1rem;
+  }
+
+  .el-menu .el-menu-item {
+    font-size: 1rem;
+  }
+
+  .el-button--mini {
+    width: auto;
+    font-size: .8rem;
+    padding: 0;
+  }
+
+  .el-table .cell {
+    font-size: .72rem;
+  }
+
+  .box-card {
+    font-size: 14px;
+  }
+
+  .box-card .item {
+    margin-bottom: 24px;
+  }
+
+  .box-card .item b {
+    width: 100px;
+    font-size: 14px;
+  }
+
+  .box-card .item span {
+    font-size: 13px;
+  }
+
+  .cancelTit s {
+    display: inline-block;
+    width: 20px;
+  }
+
+  .cancelTit span {
+    font-size: 16px;
+  }
+
+  .cardId {
+    width: 140px;
+  }
+
+  .quebao {
+    width: 160px;
+  }
+
+  .cardCenter>span {
+    font-size: 12px;
+  }
+
+  .eltextare textarea {
+    /*width: 650px;*/
+  }
+
+  .el-checkbox__label {
+    width: 72px;
+  }
+
+  .el-checkbox__label {
+    font-size: 12px;
+  }
+
+  #bingli {
+    width: 680px;
+  }
+
+  .tijiao {
+    padding-top: 13px;
+  }
+
+  .cancelSuccessPic {
+    width: 60px;
+  }
+
+  #creatLiveIn .cardId {
+    width: 140px;
+  }
+
+  #creatLiveIn .cardCenter button {
+    width: 140px;
+    font-size: 14px;
+  }
+
+  .marginBtn {
+    margin-left: 2px;
+  }
+
+  .eltextarep {
+    width: 450px;
+  }
+
+  #idCard img.cardId {
+    /*width: 14rem;*/
+  }
+
+  #checkjj .el-col-4 span.el-checkbox__label {
+    width: 80px !important;
+  }
+
+  #oldManDetailLive .el-checkbox__label {
+    width: 70px !important;
+  }
+
+  .user-avatar,
+  .headImg {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+  }
+
+  .scoreTit>div {
+    font-size: 16px;
+    height: 70px;
+    line-height: 70px;
+  }
+
+  .thTit {
+    height: 50px;
+    line-height: 50px;
+    font-size: 14px;
+  }
+
+  .basicTable td {
+    height: 50px;
+    line-height: 50px;
+  }
+
+  .scorePg .el-checkbox__label {
+    width: 25px !important;
+  }
+
+  .containerTable>.clause {
+    height: 1464px;
+    /*height: 1554px;*/
+  }
+
+  .clause p {
+    margin: 28px 0 !important;
+  }
+
+  .el-button {
+    font-size: 12px !important;
+  }
+
+  #addressHj {
+    position: relative;
+    top: 0px;
+  }
+
+  #departDialog .el-select-dropdown {
+    min-width: 0 !important;
+    width: 240px;
+  }
+
+  .closeBtn {
+    left: 210px;
+    top: 0px;
+  }
+
+  .el-input__inner {
+    font-size: 12px;
+  }
+
+  .el-form-item__label {
+    font-size: 12px;
+  }
+
+  #userListss .el-input,
+  #userListss .el-textarea {
+    /*width:200px !important;*/
+  }
+
+  #imgSpan4,
+  #imgSpan5 {
+    top: 168px !important;
+  }
+
+  .dashContainer .allNums .nums {
+    font-size: 18px;
+  }
+
+  #dashed .dashContainer .oldNum {
+    margin-top: 6px;
+    font-size: 12px;
+  }
+
+  #dashed .dashContainer .allNums {
+    width: 24% !important;
+  }
+
+  .menuItems p {
+    font-size: 13px !important;
+  }
+
+  .dashDataItem {
+    width: 33% !important;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (min-width: 1680px) and (max-width: 1919px) {
+  .spanImgText {
+    font-size: 12px !important;
+  }
+
+  .btniconfont {
+    /*font-size: 13px !important;*/
+    margin-right: 1px;
+  }
+
+  /*body{font-size: 28px;}*/
+  .btn-font-size {
+    font-size: 13px;
+  }
+
+  /*.filepath {
+		height: 30px;
+		top: 400px !important;
+	}*/
+  .resultStyle {
+    left: -31%;
+  }
+
+  .ieTixin {
+    position: relative;
+    top: 460px;
+  }
+
+  .mediaLeft {
+    position: absolute;
+    /* left:58rem; */
+    left: 0;
+    top: 0rem;
+  }
+
+  .el-form-item span {
+    padding: 0 .3rem;
+  }
+
+  .userList .el-checkbox__input {
+    width: 15px !important;
+  }
+
+  .userList .el-checkbox__label {
+    width: 28px !important;
+  }
+
+  .topbar-logo img,
+  .topbar-logos img {
+    height: 30px;
+  }
+
+  .el-table .cell {
+    font-size: .84rem;
+  }
+
+  #imgPreview {
+    width: 200px;
+    height: 200px;
+  }
+
+  .topbar-logos {
+    width: 16.2rem;
+  }
+
+  .el-menu {
+    /*width:20rem;*/
+  }
+
+  .topbar-wrap,
+  #aside>div.clearfix,
+  .openMenus {
+    height: 4rem;
+  }
+
+  .content-container {
+    margin-top: 4rem;
+  }
+
+  .el-breadcrumb {
+    font-size: 1rem;
+  }
+
+  .topbar-wrap {
+    padding: 0.4rem 0;
+  }
+
+  .topbar-logos,
+  .topbar-logo {
+    top: 12px;
+    left: 0.1rem;
+  }
+
+  .menu-toggle>img {
+    width: 1.5rem;
+    height: 1.5rem;
+    top: 0px;
+  }
+
+  .el-submenu .el-submenu__title {
+    font-size: 1rem;
+  }
+
+  .el-menu .el-menu-item {
+    font-size: 1rem;
+  }
+
+  .el-button--mini {
+    width: auto;
+    font-size: .8rem;
+    padding: 0;
+  }
+
+  .box-card {
+    font-size: 16px;
+  }
+
+  .box-card .item {
+    margin-bottom: 24px;
+  }
+
+  .box-card .item b {
+    width: 120px;
+    font-size: 16px;
+  }
+
+  .box-card .item span {
+    font-size: 15px;
+  }
+
+  .cancelTit s {
+    display: inline-block;
+    width: 22px;
+  }
+
+  .cancelTit span {
+    font-size: 18px;
+  }
+
+  .cardId {
+    width: 180px;
+  }
+
+  .quebao {
+    width: 185px;
+  }
+
+  .cardCenter>span {
+    font-size: 14px;
+  }
+
+  .eltextare textarea {
+    /*width: 715px;*/
+  }
+
+  .el-checkbox__label {
+    width: 115px;
+  }
+
+  .el-checkbox__label {
+    font-size: 14px;
+  }
+
+  #bingli {
+    width: 780px;
+  }
+
+  .tijiao {
+    padding-top: 10px;
+  }
+
+  .cancelSuccessPic {
+    width: 70px;
+  }
+
+  #creatLiveIn .cardId {
+    width: 180px;
+  }
+
+  #creatLiveIn .cardCenter button {
+    width: 140px;
+  }
+
+  .marginBtn {
+    margin-left: 16px;
+  }
+
+  .eltextarep {
+    width: 600px;
+  }
+
+  #idCard img.cardId {
+    /*width: 16.5rem;*/
+  }
+
+  .user-avatar,
+  .headImg {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+  }
+
+  .scoreTit>div {
+    font-size: 16px;
+    height: 80px;
+    line-height: 80px;
+  }
+
+  .thTit {
+    height: 60px;
+    line-height: 60px;
+    font-size: 16px;
+    padding: 0;
+  }
+
+  .basicTable td {
+    height: 60px;
+    line-height: 60px;
+  }
+
+  .scorePg .el-checkbox__label {
+    width: 40px !important;
+  }
+
+  .containerTable>.clause {
+    /*height: 1734px;*/
+    height: 1644px;
+  }
+
+  #addressHj {
+    position: relative;
+    top: -2px;
+  }
+
+  #departDialog .el-select-dropdown {
+    min-width: 0 !important;
+    width: 240px;
+  }
+
+  .closeBtn {
+    left: 270px;
+    top: 0px;
+  }
+
+  #userListss .el-input,
+  #userListss .el-textarea {
+    /*width:240px !important;*/
+  }
+
+  .dashContainer .allNums .nums {
+    font-size: 14px;
+  }
+
+  #dashed .dashContainer .oldNum {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+
+  .btn-font-size {
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 1920px) {
+
+  /*body{font-size: 33px;}*/
+  .ieTixin {
+    position: relative;
+    top: 420px;
+  }
+
+  .mediaLeft {
+    position: absolute;
+    left: 0;
+    top: 0rem;
+  }
+
+  .topbar-logo img,
+  .topbar-logos img {
+    height: 40px;
+  }
+
+  .el-form-item span {
+    /*padding:0 .2rem;*/
+  }
+
+  #imgPreview {
+    width: 150px !important;
+    height: 200px !important;
+  }
+
+  #img3 {
+    bottom: 11.25rem;
+  }
+
+  .topbar-logos {
+    width: 16.2rem;
+  }
+
+  .el-menu {
+    /*width:20rem;*/
+  }
+
+  .topbar-wrap,
+  #aside>div.clearfix,
+  .openMenus,
+  .openMenus {
+    height: 4rem;
+  }
+
+  .content-container {
+    margin-top: 4rem;
+  }
+
+  .el-breadcrumb {
+    font-size: 1.2rem;
+  }
+
+  .topbar-wrap {
+    padding: 0.6rem 0;
+  }
+
+  #imgSpan {
+    top: 95px;
+  }
+
+  .topbar-logos,
+  .topbar-logo {
+    top: 12px;
+  }
+
+  .menu-toggle>img {
+    width: 1.8rem;
+    height: 1.8rem;
+    top: 0px;
+  }
+
+  /* aside.showSidebar{
+		height: 900px;
+	} */
+  .el-submenu .el-submenu__title {
+    font-size: 1.1rem;
+  }
+
+  .el-menu .el-menu-item {
+    font-size: 1.1rem;
+  }
+
+  .el-button--mini {
+    width: auto;
+  }
+
+  .el-table .cell {
+    font-size: 16px;
+  }
+
+  .box-card {
+    font-size: 16px;
+  }
+
+  .box-card .item {
+    margin-bottom: 30px;
+  }
+
+  .box-card .item b {
+    width: 120px;
+    font-size: 16px;
+  }
+
+  .box-card .item span {
+    font-size: 14px;
+  }
+
+  .cancelTit s {
+    display: inline-block;
+    width: 20px;
+  }
+
+  .cancelTit span {
+    font-size: 18px;
+    position: relative;
+    top: -2px;
+  }
+
+  .cardId {
+    width: 180px;
+  }
+
+  .quebao {
+    width: 185px;
+  }
+
+  .cardCenter>span {
+    font-size: 14px;
+  }
+
+  .eltextare textarea {
+    /*width: 715px;*/
+  }
+
+  .el-checkbox__label {
+    width: 115px;
+  }
+
+  .el-checkbox__label {
+    font-size: 14px;
+  }
+
+  #bingli {
+    width: 800px;
+  }
+
+  .tijiao {
+    /*padding-top: 10px;*/
+  }
+
+  .cancelSuccessPic {
+    width: 72px;
+  }
+
+  #creatLiveIn .cardId {
+    width: 180px;
+  }
+
+  #creatLiveIn .cardCenter button {
+    width: 140px;
+  }
+
+  .marginBtn {
+    margin-left: 16px;
+  }
+
+  .eltextarep {
+    width: 650px;
+  }
+
+  #idCard img.cardId {
+    /*width: 18.5rem;*/
+  }
+
+  .user-avatar,
+  .headImg {
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    /* border-radius: 10px; */
+  }
+
+  .scoreTit>div {
+    font-size: 16px;
+    height: 90px;
+    line-height: 90px;
+  }
+
+  .thTit {
+    height: 60px;
+    line-height: 60px;
+    font-size: 16px;
+    padding: 0;
+  }
+
+  .basicTable td {
+    height: 60px;
+    line-height: 60px;
+  }
+
+  .scorePg .el-checkbox__label {
+    width: 48px !important;
+  }
+
+  .containerTable {
+    height: 1800px;
+  }
+
+  .containerTable>.clause {
+    /*height: 1734px;*/
+    height: 1644px;
+  }
+
+  .clause p {
+    margin: 34px 0 !important;
+  }
+
+  #addressHj {
+    position: relative;
+    top: -6px;
+  }
+
+  #departDialog .el-select-dropdown {
+    min-width: 0 !important;
+    width: 240px;
+  }
+
+  .closeBtn {
+    left: 215px;
+    top: 0px;
+  }
+
+  /*#upDepartment{
+		width:300px !important;
+	}*/
+  #userListss .el-input,
+  #userListss .el-textarea {
+    /*width:240px !important;*/
+  }
+
+  .dashContainer .allNums .nums {
+    font-size: 22px;
+  }
+
+  #dashed .dashContainer .oldNum {
+    margin-top: 5px;
+    font-size: 16px;
+  }
+
+  #oldManDetailLive .el-col-xl-5 {
+    width: 19.5% !important;
+  }
+
+  #creatLiveIn .el-col-xl-5 {
+    width: 19.5% !important;
+  }
+
+  .btn-font-size {
+    font-size: 16px;
+    font-weight: 500;
+  }
+}

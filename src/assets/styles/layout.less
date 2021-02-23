@@ -1,0 +1,67 @@
+.ub-container {
+  height: 100vh;
+
+  .head {
+    background-color: #3F51B6;
+    height: 60px;
+    padding: 0;
+    color: #fff;
+  }
+
+  .aside {
+    position: absolute;
+    width: 100px;
+    top: 60px;
+    bottom: 0px;
+    overflow: auto;
+
+    &::-webkit-scrollbar { /* WebKit */
+      display: none;
+    }
+    -ms-overflow-style:none; /* Edge */
+	  scrollbar-width: none; /* Firefox */
+  }
+
+  .main {
+    position: absolute;
+    padding: 0;
+    background-color: #ecf0f4;
+    top: 60px;
+    bottom: 0px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  // .main::-webkit-scrollbar {
+  //   width: 8px;
+  // }
+  // .main::-webkit-scrollbar-thumb {
+  //   border-radius: 6px;
+  //   -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+  //   background: rgba(0, 0, 0, 0.2);
+  // }
+  .withmenu {
+    left: 100px;
+    right: 0px;
+  }
+  .full-width {
+    left: 0px;
+    right: 0px;
+  }
+  .padding-content {
+    padding: 10px;
+  }
+  .footer {
+    padding: 20px 0px 10px 0px;
+    text-align: center;
+    color: #A5A5A5;
+    font-size: 12px;
+    font-weight: 300;
+    // margin-bottom: 50px;
+  }
+
+  /deep/ .el-image-viewer__close { // 图片预览关闭按钮
+    color: #fff;
+  }
+}

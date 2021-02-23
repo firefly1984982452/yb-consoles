@@ -1,0 +1,367 @@
+.view-container {
+  padding: 10px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+
+  .el-button {
+    padding: 10px 10px;
+    min-width: 95px;
+  }
+
+  .button-purple {
+    color: #fff;
+    background-color: #8344F8;
+    border-color: #8344F8;
+  }
+
+  .button-purple:hover {
+    background-color: #A465FF;
+    border-color: #A465FF;
+  }
+
+  .button-purple:active {
+    background-color: #814DD9;
+    border-color: #814DD9;
+  }
+
+  .button-yellow {
+    color: #fff;
+    background-color: #e6a23c;
+    border-color: #e6a23c;
+  }
+
+  .button-yellow:hover {
+    background-color: #F6AD40;
+    border-color: #F6AD40;
+  }
+
+  .button-yellow:active {
+    background-color: #D09136;
+    border-color: #D09136;
+  }
+
+  .el-input__inner {
+    height: 35px;
+    line-height: 35px;
+  }
+
+  .el-input-number__decrease,
+  .el-input-number__increase {
+    height: 35px;
+  }
+
+  .el-pagination {
+    .el-input__inner {
+      height: 28px;
+      line-height: normal;
+    }
+  }
+
+  .text-tips {
+    font-size: 11px;
+    color: #aaa;
+  }
+
+  .el-dialog {
+    .el-form-item--mini.el-form-item {
+      margin-bottom: 20px;
+    }
+  }
+
+  .right {
+    text-align: right;
+  }
+
+  .search {
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #606266;
+
+    .el-form-item {
+      margin-bottom: 0px;
+      margin-right: 20px;
+    }
+
+    .el-input {
+      width: 186px;
+    }
+
+    .el-button {
+      width: 100px;
+      height: 36px;
+      border-radius: 4px;
+    }
+  }
+
+  .content {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+
+    .pannel {
+      padding: 10px 0px 20px 0px;
+    }
+
+    .el-button--mini {
+      border: none;
+      font-size: 1.2rem;
+      width: auto;
+      min-width: auto;
+      padding: 0;
+      background-color: transparent;
+    }
+
+    .el-pagination {
+      text-align: center;
+      padding: 20px 0px;
+      font-weight: normal;
+    }
+  }
+
+  .nopadding {
+    padding: 0;
+  }
+
+  .content-title {
+    background-color: #fbfbfc;
+    color: #333;
+    line-height: 40px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ebeef5;
+
+    .bar {
+      position: relative;
+      width: 6px;
+      height: 20px;
+      background-color: #f49b31;
+      display: inline-block;
+      border-radius: 2px;
+      top: 4px;
+    }
+
+    p {
+      display: inline-block;
+      margin-left: 5px;
+    }
+  }
+
+  .ub-table {
+
+    &.el-table--border,
+    &.el-table--group {
+      border: 1px solid #DCDFE6;
+    }
+
+    &.el-table--border {
+      border-right: none;
+      border-bottom: none;
+    }
+
+    &::before {
+      background-color: #DCDFE6;
+    }
+
+    th {
+      background-color: #F3F3F3;
+      text-align: center;
+      color: #333333;
+    }
+
+    td,
+    th.is-leaf {
+      border-bottom: 1px solid #DCDFE6;
+      border-right: 1px solid #DCDFE6;
+    }
+
+    td {
+      text-align: center;
+      color: #666666;
+
+      &.is-left {
+        text-align: left;
+      }
+    }
+  }
+
+  // 返回按钮式样
+  .back-btn {
+    width: 60px !important;
+    height: 36px;
+    padding: 0;
+    min-width: 0;
+    margin: 0 20px 0 0;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 4px;
+  }
+
+  // 标题表头式样
+  .title-header,
+  .el-card__header {
+    padding: 16px 0 16px 20px;
+    align-items: center;
+    border-bottom: 1px solid #DDDDDD;
+    background: #fbfbfc;
+    color: #333333;
+    line-height: 25px;
+    font-weight: 700;
+    border-radius: 5px 5px 0px 0px;
+  }
+
+  .el-card__header div.clearfix {
+    height: 25px;
+  }
+
+  // 竖条式样
+  .blueBa,
+  .redBa,
+  .greenBa,
+  .orgBa,
+  .qinBa,
+  .ppBa,
+  .qingseBa {
+    display: inline-block;
+    width: 4px;
+    height: 20px;
+    border-radius: 3px;
+    position: relative;
+    top: 4px;
+    margin-right: 10px;
+  }
+
+  .blueBa {
+    background: #3E6FA8;
+  }
+
+  .qingseBa {
+    background: #2FC07A;
+  }
+
+  .redBa {
+    background: #F36969;
+  }
+
+  .greenBa {
+    background: #6cbc6c;
+  }
+
+  .orgBa {
+    background: #F49B31;
+  }
+
+  .qinBa {
+    background: #41C5D1;
+  }
+
+  .ppBa {
+    background: #9A6EF2;
+  }
+}
+
+.view-container>:first-child {
+  // height: 100%;
+  flex: 1;
+}
+
+.el-table .operation .cell {
+  text-align: right;
+}
+
+.el-table .operation.is-leaf .cell {
+  text-align: center;
+}
+
+.danger {
+  color: #f56c6c;
+}
+
+i.el-popover__reference {
+  font-size: 18px;
+  margin-left: 8px;
+
+}
+
+.help-block {
+  font-size: 12px;
+  opacity: 0.5;
+  line-height: 16px;
+  display: block;
+}
+
+.el-textarea .el-input__count {
+  color: #909399;
+  background: #FFF;
+  position: absolute;
+  font-size: 12px;
+  bottom: 0px;
+  right: 10px;
+  display: inline;
+  line-height: 20px;
+  opacity: 0.3;
+}
+
+.el-tabs__nav-wrap::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #E4E7ED;
+  z-index: 1;
+}
+
+.el-tabs__active-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 3px;
+  background-color: #409EFF;
+  z-index: 1;
+  -webkit-transition: -webkit-transform .3s cubic-bezier(.645, .045, .355, 1);
+  transition: -webkit-transform .3s cubic-bezier(.645, .045, .355, 1);
+  transition: transform .3s cubic-bezier(.645, .045, .355, 1);
+  transition: transform .3s cubic-bezier(.645, .045, .355, 1), -webkit-transform .3s cubic-bezier(.645, .045, .355, 1);
+  list-style: none;
+}
+
+.el-dialog {
+  margin: 0 !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-height: calc(100% - 30px);
+  max-width: calc(100% - 30px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.el-dialog .el-dialog__body {
+  overflow: auto;
+}
+
+.el-dialog__body {
+  padding-top: 10px;
+}
+
+.el-dialog__footer {
+  padding: 10px
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
